@@ -10,9 +10,17 @@ import kotlin.random.Random
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
-
+        super.onCreate(savedInstanFGHFGHFceState)
+        setContentView(R.layout.actFFHFGHFivity_main)
+FGHFGHFG
+        FG
+        HFGH
+        H
+        FGH
+        FG
+        HFG
+        H
+        FG
         val rollButton: Button = findViewById(R.id.roll_button)
         rollButton.setOnClickListener{
             rolldice()
